@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #a82536;
+    position: fixed;
+   
+}
+
+a.nav-link{
+    color: #9AEBA3;
+    font-size: 22px;
+}
+a.nav-link:hover{
+    background-color: #13678A;
+}
+
+.name_navbar{
+    color: white;
+    text-transform: uppercase;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex;
+    flex-basis: auto;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+

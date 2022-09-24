@@ -1,0 +1,25 @@
+.tecnologias{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding: 50px;
+}
+
+.tecnologias p{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    background-color: none;
+}
+
+.tech{
+    background-color: #D9D9D9;
+}

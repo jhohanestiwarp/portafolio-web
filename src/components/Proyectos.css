@@ -1,0 +1,43 @@
+.proyectos{
+    padding: 20px;
+    background-color: #13678A;
+}
+
+
+.title_proyecto{
+    color: #45C4B0;
+    font-size: 25px;
+    padding-top: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.info_proyecto{
+   padding-top: 10px;
+   color: white;
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.project_img{
+    width: 620px;
+}
+
+.buttons{
+    display: flex;
+    gap: 20px;
+}
+
+.button{
+    background-color: #012030;
+    color: white;
+    font-weight: bold;
+    width: 220px;
+
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #13678A;
+
+}

@@ -1,0 +1,12 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.h2_title{
+    font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+}

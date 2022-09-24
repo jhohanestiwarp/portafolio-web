@@ -1,0 +1,17 @@
+.footer{
+    max-width: 1200px;
+}
+
+.iconos{
+    font-size: 100px;
+    color: #012030;
+}
+
+
+.info{
+    padding-top: 50px;
+    color: blue;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #012030;
+}

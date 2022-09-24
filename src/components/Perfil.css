@@ -1,0 +1,23 @@
+.imagen_perfil{
+    width: 450px;
+    height: 450px;
+}
+
+.text_perfil{
+    font-size: 22px;
+    color: white;
+    text-align: justify;
+}
+
+.container_perfil{
+    padding: 90px;
+    max-width: 1200px;
+}
+
+.buttons{
+    display: inline;
+    gap: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
