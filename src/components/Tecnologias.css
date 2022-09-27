@@ -23,3 +23,13 @@
 .tech{
     background-color: #D9D9D9;
 }
+.text_perfil{
+    font-size: 22px;
+    color: rgb(3, 3, 3);
+    text-align: justify;
+}
+
+.container_perfil{
+    padding: 90px;
+    max-width: 1200px;
+}

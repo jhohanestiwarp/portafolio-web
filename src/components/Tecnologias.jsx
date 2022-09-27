@@ -15,9 +15,9 @@ const Tecnologias = () => {
             <section className='tech' id='tecnologias'>
                 <div className='tecnologias' >
 
-                    <p className="">
-                        Ingeniero de telecomunicaciones e Informática, con énfasis en
-                        desarrollo con experiencia y
+                <p className="text_perfil">
+                        Ingeniero de telecomunicaciones e Informática,
+                        con énfasis en desarrollo con experiencia y
                         motivación estoy abierto a aprender.
                         Mis fuertes son el pensamiento conceptual y el
                         pensamiento analítico con más de 2 años de
