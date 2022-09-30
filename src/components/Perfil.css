@@ -13,6 +13,10 @@
     padding: 90px;
     max-width: 1200px;
 }
+.col-md-6{
+    text-align: right 
+
+}
 
 .buttons{
     display: inline;

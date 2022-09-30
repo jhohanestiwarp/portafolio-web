@@ -13,7 +13,7 @@ const Perfil = () => {
         <br />
           <h1 className="text_perfil">HOLA,🤠 SOY JHOHAN </h1>
           <br />
-          <h4 className="text_perfil">Bienvenido a mi portafolio web, full stack en el cual les estaré mostrando mis experiencias y actitudes</h4>
+          <h4 className="text_perfil">Bienvenido a mi portafolio web, full stack en el cual les estaré mostrando mis experiencias, actitudes y proyectos.</h4>
 
           <br></br>   
 
@@ -43,7 +43,7 @@ const Perfil = () => {
         </div>
 
         <div className="col-md-6">
-          <img src={perfil} alt="perfil" className="img-fluid imagen_perfil " />
+          <img src={perfil} alt="perfil" className="img-fluid imagen_perfil"/>
          
 
         </div>

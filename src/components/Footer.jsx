@@ -19,7 +19,7 @@ const Footer = () => {
               {" "}
               <BiPhoneCall />
             </strong>
-            : 3245645465
+            : 3245645465 - 3116770929
           </p>
         </div>
 
